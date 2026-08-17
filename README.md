@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,40:F2EBE4,70:9FD4F0,100:0D1117&text=lourss0n&fontAlign=50&fontAlignY=35&fontColor=1A1C2C&fontSize=40&desc=Sleepy%20until%20the%20chunk%20hits.%20Then%20it%27s%20games.&descAlign=50&descAlignY=58&animation=fadeIn" alt="lourss0n banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,40:F2EBE4,70:9FD4F0,100:0D1117&text=Lourss0n&fontAlign=50&fontAlignY=35&fontColor=1A1C2C&fontSize=40&desc=Sleepy%20until%20the%20chunk%20hits.%20Then%20it%27s%20games.&descAlign=50&descAlignY=58&animation=fadeIn" alt="Lourss0n banner" />
 
-# lourss0n
+# Lourss0n
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F2EBE4&center=true&vCenter=true&width=760&lines=Godot+games+I+would+actually+play;Freakin+grinding%21;Kewl+training+projects+I+archive;First+real+game+soon%21)](https://github.com/Lourss0)
 
